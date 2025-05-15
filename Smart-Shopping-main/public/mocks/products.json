@@ -1,0 +1,186 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 11 ",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 25000,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "images": [
+                "https://slimcase.in/cdn/shop/files/slimcase-mobile-back-cover-for-iphone-11case-416569.jpg?v=1714986998"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone 12 ",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 35000,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+            "images": [
+                "https://s3no.cashify.in/pd-admin/a1259597c94a425a87593e49f4378026.jpg?p=es3sq&s=es"
+              
+            ]
+        },
+        {
+            "id": 3,
+            "title": "iPhone 13 ",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 43000,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+            "images": [
+                "https://nillkin.org/image/cache/data/product-7687/1%20(4)-800x800.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "iPhone 14 ",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 47500,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "images": [
+                "https://www.notebookcheck.net/fileadmin/_processed_/f/9/csm_iphone_14_pro_model_unselect_gallery_2_202209_GEO_EMEA_e082e30821.jpg"
+             
+            ]
+        },
+        {
+            "id": 5,
+            "title": "iPhone 15 ",
+            "description": "Processor: Apple M1 Display: 33.78 cms (13.3 inches) LED-Backlit Memory: 8GB DDR4 RAM, 256GB SSD ROM OS: macOS Big Sur Warranty: 1 Year Onsite",
+            "price": 61720,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://www.maplestore.in/cdn/shop/files/iPhone_15_Blue_PDP_Image_Position-1__en-IN_9d151e10-d809-499c-95cd-5c7cb7ea9dbe_4000x.jpg?v=1701822313"
+            ]
+        },
+        {
+            "id": 6,
+            "title": " Watch Series 8 ",
+            "description": "with Sports Band (45mm Retina LTPO OLED Display, Starlight Aluminium Case) Sleep Monitor | ECG Monitor | Heart Rate | SPO2 Upto 18 Hours Battery Life",
+            "price": 46400.00,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://ismart.co.in/wp-content/uploads/2022/10/watch-8-Midnight-Aluminium-Case-with-Sport-Band-img01.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Apple ipad Mini ",
+            "description": "Effective Pixels: 24.1 MP  Video Resolution: Full HD at 29.97 FPS Sensor: CMOS, APS-C (22.3 x 14.9mm) 2 Years Product Warranty  9 Point AF, Built-in Speaker, 11 Custom Functions ",
+            "price": 41999,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-10th-gen-finish-select-202212-pink-wifi_AV1_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1670856073973"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Apple AirPods Pro",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 21494,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Apple MacBook Pro ",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 214940,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://www.apple.com/newsroom/images/product/mac/standard/Apple_16-inch-MacBook-Pro_111319_big.jpg.large.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Apple MacBook Air ",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 21494,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-mba15-silver-202307?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1699569531903"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Apple AirPods Max",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 214904,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/og-airpods-max-202011?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1603996970000"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Apple MagSafe Charger",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 21494,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+            "images": [
+                "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MHXH3_AV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693013377175"
+            ]
+        }
+    ]
+}
